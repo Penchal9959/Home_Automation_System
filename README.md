@@ -1,4 +1,13 @@
-# Home_Automation_System
+# Home Automation System
+
+> **This repository is archived.** The reviewed and corrected version
+> of this project lives in [embedded-iot-projects / home-automation](https://github.com/Penchal9959/embedded-iot-projects/tree/main/home-automation), alongside the
+> others from the same series. Work happens there; nothing here changes.
+
+---
+
+## Original description
+
 We can control our home electronic appliances by using smartphone over the voice commands. Which is completely designed by Ardiuno uno board and Bluetooth module and other smartphone app with relay module.
 
 Components:
